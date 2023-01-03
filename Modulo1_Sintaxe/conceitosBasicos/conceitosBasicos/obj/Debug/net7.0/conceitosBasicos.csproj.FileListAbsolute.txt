@@ -1,0 +1,15 @@
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\bin\Debug\net7.0\conceitosBasicos.exe
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\bin\Debug\net7.0\conceitosBasicos.deps.json
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\bin\Debug\net7.0\conceitosBasicos.runtimeconfig.json
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\bin\Debug\net7.0\conceitosBasicos.dll
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\bin\Debug\net7.0\conceitosBasicos.pdb
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.csproj.AssemblyReference.cache
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.AssemblyInfoInputs.cache
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.AssemblyInfo.cs
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.dll
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\refint\conceitosBasicos.dll
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.pdb
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\conceitosBasicos.genruntimeconfig.cache
+D:\Main\Csharp\Modulo1_Sintaxe\conceitosBasicos\conceitosBasicos\obj\Debug\net7.0\ref\conceitosBasicos.dll
