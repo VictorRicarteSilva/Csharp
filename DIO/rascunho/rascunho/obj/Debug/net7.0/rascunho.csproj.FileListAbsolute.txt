@@ -1,0 +1,15 @@
+D:\Main\Csharp\DIO\rascunho\rascunho\bin\Debug\net7.0\rascunho.exe
+D:\Main\Csharp\DIO\rascunho\rascunho\bin\Debug\net7.0\rascunho.deps.json
+D:\Main\Csharp\DIO\rascunho\rascunho\bin\Debug\net7.0\rascunho.runtimeconfig.json
+D:\Main\Csharp\DIO\rascunho\rascunho\bin\Debug\net7.0\rascunho.dll
+D:\Main\Csharp\DIO\rascunho\rascunho\bin\Debug\net7.0\rascunho.pdb
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.csproj.AssemblyReference.cache
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.AssemblyInfoInputs.cache
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.AssemblyInfo.cs
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.dll
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\refint\rascunho.dll
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.pdb
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\rascunho.genruntimeconfig.cache
+D:\Main\Csharp\DIO\rascunho\rascunho\obj\Debug\net7.0\ref\rascunho.dll
