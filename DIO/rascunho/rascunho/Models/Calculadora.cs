@@ -1,8 +1,17 @@
 namespace rascunho.Models;
 
-
+/// <summary>
+/// Implementa os calculos de soma, subtração,multiplicação,
+/// divisão, potenciação e raiz quadrada. além de também
+/// fazer calculos trigonometricos (Sen, Cos, Tan).
+/// </summary>
     public class Calculadora
     {
+        /// <summary>
+        /// Faz a soma entre dois numeros e retorna o resultado.
+        /// </summary>
+        /// <param name="a">Um numero double.</param>
+        /// <param name="b">Um segundo numero double para ser somado ao primeiro.</param>
         public void Somar(double a, double b)
         {
             Console.WriteLine($"{a} + {b} = {a + b}");
