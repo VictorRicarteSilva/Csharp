@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExercicioTradicionalComClasses\bin\Debug\net7.0\ExercicioTradicionalComClasses.exe
+D:\Main\Csharp\ExercicioTradicionalComClasses\bin\Debug\net7.0\ExercicioTradicionalComClasses.deps.json
+D:\Main\Csharp\ExercicioTradicionalComClasses\bin\Debug\net7.0\ExercicioTradicionalComClasses.runtimeconfig.json
+D:\Main\Csharp\ExercicioTradicionalComClasses\bin\Debug\net7.0\ExercicioTradicionalComClasses.dll
+D:\Main\Csharp\ExercicioTradicionalComClasses\bin\Debug\net7.0\ExercicioTradicionalComClasses.pdb
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.AssemblyInfo.cs
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.dll
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\refint\ExercicioTradicionalComClasses.dll
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.pdb
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ExercicioTradicionalComClasses.genruntimeconfig.cache
+D:\Main\Csharp\ExercicioTradicionalComClasses\obj\Debug\net7.0\ref\ExercicioTradicionalComClasses.dll

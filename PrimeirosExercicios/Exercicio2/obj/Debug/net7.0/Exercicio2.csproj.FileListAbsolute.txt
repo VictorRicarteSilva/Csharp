@@ -1,0 +1,15 @@
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+D:\Main\Csharp\PrimeirosExercicios\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll
