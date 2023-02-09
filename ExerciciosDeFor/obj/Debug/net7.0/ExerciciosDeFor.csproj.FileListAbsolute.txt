@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExerciciosDeFor\bin\Debug\net7.0\ExerciciosDeFor.exe
+D:\Main\Csharp\ExerciciosDeFor\bin\Debug\net7.0\ExerciciosDeFor.deps.json
+D:\Main\Csharp\ExerciciosDeFor\bin\Debug\net7.0\ExerciciosDeFor.runtimeconfig.json
+D:\Main\Csharp\ExerciciosDeFor\bin\Debug\net7.0\ExerciciosDeFor.dll
+D:\Main\Csharp\ExerciciosDeFor\bin\Debug\net7.0\ExerciciosDeFor.pdb
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.AssemblyInfo.cs
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.dll
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\refint\ExerciciosDeFor.dll
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.pdb
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ExerciciosDeFor.genruntimeconfig.cache
+D:\Main\Csharp\ExerciciosDeFor\obj\Debug\net7.0\ref\ExerciciosDeFor.dll
