@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.exe
+D:\Main\Csharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.deps.json
+D:\Main\Csharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.runtimeconfig.json
+D:\Main\Csharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.dll
+D:\Main\Csharp\ExercicioEstoque\bin\Debug\net7.0\ExercicioEstoque.pdb
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.AssemblyInfo.cs
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.dll
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\refint\ExercicioEstoque.dll
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.pdb
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ExercicioEstoque.genruntimeconfig.cache
+D:\Main\Csharp\ExercicioEstoque\obj\Debug\net7.0\ref\ExercicioEstoque.dll

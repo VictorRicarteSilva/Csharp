@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\bin\Debug\net7.0\Exercicio1.exe
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\bin\Debug\net7.0\Exercicio1.deps.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\bin\Debug\net7.0\Exercicio1.runtimeconfig.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\bin\Debug\net7.0\Exercicio1.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\bin\Debug\net7.0\Exercicio1.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.AssemblyInfo.cs
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\refint\Exercicio1.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\Exercicio1.genruntimeconfig.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio1\obj\Debug\net7.0\ref\Exercicio1.dll
