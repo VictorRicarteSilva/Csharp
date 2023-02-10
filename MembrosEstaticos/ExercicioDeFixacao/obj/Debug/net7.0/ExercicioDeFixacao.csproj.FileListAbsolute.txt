@@ -1,0 +1,15 @@
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.exe
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.deps.json
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.runtimeconfig.json
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.dll
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.pdb
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.csproj.AssemblyReference.cache
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfo.cs
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.dll
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\refint\ExercicioDeFixacao.dll
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.pdb
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.genruntimeconfig.cache
+D:\Main\Csharp\MembrosEstaticos\ExercicioDeFixacao\obj\Debug\net7.0\ref\ExercicioDeFixacao.dll

@@ -1,0 +1,15 @@
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\bin\Debug\net7.0\Resolucao3.exe
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\bin\Debug\net7.0\Resolucao3.deps.json
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\bin\Debug\net7.0\Resolucao3.runtimeconfig.json
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\bin\Debug\net7.0\Resolucao3.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\bin\Debug\net7.0\Resolucao3.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.csproj.AssemblyReference.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.AssemblyInfoInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.AssemblyInfo.cs
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\refint\Resolucao3.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\Resolucao3.genruntimeconfig.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao3\obj\Debug\net7.0\ref\Resolucao3.dll

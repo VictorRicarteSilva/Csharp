@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\bin\Debug\net7.0\Exercicio2_Funcionario.exe
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\bin\Debug\net7.0\Exercicio2_Funcionario.deps.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\bin\Debug\net7.0\Exercicio2_Funcionario.runtimeconfig.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\bin\Debug\net7.0\Exercicio2_Funcionario.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\bin\Debug\net7.0\Exercicio2_Funcionario.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.AssemblyInfo.cs
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\refint\Exercicio2_Funcionario.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\Exercicio2_Funcionario.genruntimeconfig.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio2_Funcionario\Exercicio2_Funcionario\obj\Debug\net7.0\ref\Exercicio2_Funcionario.dll

@@ -1,0 +1,15 @@
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\bin\Debug\net7.0\Resolucao2.exe
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\bin\Debug\net7.0\Resolucao2.deps.json
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\bin\Debug\net7.0\Resolucao2.runtimeconfig.json
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\bin\Debug\net7.0\Resolucao2.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\bin\Debug\net7.0\Resolucao2.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.csproj.AssemblyReference.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.AssemblyInfoInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.AssemblyInfo.cs
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\refint\Resolucao2.dll
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\Resolucao2.genruntimeconfig.cache
+D:\Main\Csharp\MembrosEstaticos\Resolucao2\obj\Debug\net7.0\ref\Resolucao2.dll

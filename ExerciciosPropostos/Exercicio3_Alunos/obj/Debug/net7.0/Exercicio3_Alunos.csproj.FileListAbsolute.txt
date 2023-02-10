@@ -1,0 +1,15 @@
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\bin\Debug\net7.0\Exercicio3_Alunos.exe
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\bin\Debug\net7.0\Exercicio3_Alunos.deps.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\bin\Debug\net7.0\Exercicio3_Alunos.runtimeconfig.json
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\bin\Debug\net7.0\Exercicio3_Alunos.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\bin\Debug\net7.0\Exercicio3_Alunos.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.csproj.AssemblyReference.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.AssemblyInfoInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.AssemblyInfo.cs
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\refint\Exercicio3_Alunos.dll
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.pdb
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\Exercicio3_Alunos.genruntimeconfig.cache
+D:\Main\Csharp\ExerciciosPropostos\Exercicio3_Alunos\obj\Debug\net7.0\ref\Exercicio3_Alunos.dll

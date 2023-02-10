@@ -1,0 +1,15 @@
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\bin\Debug\net7.0\Resolusao1.exe
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\bin\Debug\net7.0\Resolusao1.deps.json
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\bin\Debug\net7.0\Resolusao1.runtimeconfig.json
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\bin\Debug\net7.0\Resolusao1.dll
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\bin\Debug\net7.0\Resolusao1.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.csproj.AssemblyReference.cache
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.AssemblyInfoInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.AssemblyInfo.cs
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.dll
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\refint\Resolusao1.dll
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.pdb
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\Resolusao1.genruntimeconfig.cache
+D:\Main\Csharp\MembrosEstaticos\Resolusao1\obj\Debug\net7.0\ref\Resolusao1.dll
