@@ -1,0 +1,15 @@
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.exe
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.deps.json
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.runtimeconfig.json
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.dll
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.pdb
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.csproj.AssemblyReference.cache
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.AssemblyInfoInputs.cache
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.AssemblyInfo.cs
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.dll
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\refint\PrimeiroExemplo.dll
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.pdb
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.genruntimeconfig.cache
+D:\Main\Csharp\Encapsulamento\PrimeiroExemplo\obj\Debug\net7.0\ref\PrimeiroExemplo.dll

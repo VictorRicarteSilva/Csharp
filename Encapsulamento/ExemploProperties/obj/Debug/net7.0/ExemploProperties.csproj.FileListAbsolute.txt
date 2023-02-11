@@ -1,0 +1,15 @@
+D:\Main\Csharp\Encapsulamento\ExemploProperties\bin\Debug\net7.0\ExemploProperties.exe
+D:\Main\Csharp\Encapsulamento\ExemploProperties\bin\Debug\net7.0\ExemploProperties.deps.json
+D:\Main\Csharp\Encapsulamento\ExemploProperties\bin\Debug\net7.0\ExemploProperties.runtimeconfig.json
+D:\Main\Csharp\Encapsulamento\ExemploProperties\bin\Debug\net7.0\ExemploProperties.dll
+D:\Main\Csharp\Encapsulamento\ExemploProperties\bin\Debug\net7.0\ExemploProperties.pdb
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.csproj.AssemblyReference.cache
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.AssemblyInfoInputs.cache
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.AssemblyInfo.cs
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.csproj.CoreCompileInputs.cache
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.dll
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\refint\ExemploProperties.dll
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.pdb
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ExemploProperties.genruntimeconfig.cache
+D:\Main\Csharp\Encapsulamento\ExemploProperties\obj\Debug\net7.0\ref\ExemploProperties.dll
